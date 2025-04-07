@@ -1,0 +1,34 @@
+[
+  {
+    "title":"Python for Everybody ",
+    "author":"Charles Severance",
+    "publication_year":2016,
+    "genre":"programming",
+    "read_status":false,
+    "added_data":"2025-03-10,
+  },
+  {
+    "title":"Automate the boring stuff with python",
+    "author":"Luciano Ramalho",
+    "publication_year":2015,
+    "genre":"programming",
+    "read_status":true,
+    "added_data":"2025-03-22,
+  },
+  {
+    "title":"Think Python",
+    "author":"Allen B.Downey",
+    "publication_year":2002,
+    "genre":"programming",
+    "read_status":true,
+    "added_data":"2025-03-15,
+  },
+  {
+    "title":"Learning python",
+    "author":"Mark Lutz",
+    "publication_year":2002,
+    "genre":"programming",
+    "read_status":false,
+    "added_data":"2025-03-30,
+  },
+]
